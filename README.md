@@ -48,7 +48,7 @@ The small raised features seen in the above photo could possibly be the remains 
 
 To make sure there weren’t any classification errors, in which vegetation (like trees) could be confused with ground points, we created a visualization of all points (including trees).
 
-{ALL POINTS}
+![All Points](ALL POINTS.JPG)
 
 To confirm that these are archaeological features, and not naturally occurring (i.e. trees), or modern structures, we need to use additional visualizations.
 
