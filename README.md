@@ -53,8 +53,10 @@ We also looked at aerial photographs over the past several decades to look at th
 
 ![KatePadula](KatePadula.png)
 
-Matt Litteral and Kate Padula are is a first year Master's Candidate in Applied Anthropology at the University of South Florida. 
-Kate Padula is a second year Master's Candidate in Applied Anthropology
+Matt Litteral and Kate Padula are Master's Candidates in Applied Anthropology at the University of South Florida. They are both archaeologists studying sugar plantations in Florida.
+
+### Contact Us
+
 
 
 You can use the [editor on GitHub](https://github.com/KPadula/Gamble_Plantation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
