@@ -2,8 +2,7 @@
 
 Major Robert Gamble founded Gamble Plantation on 160 acres along the Manatee River in the mid-1840s. By 1850 his holdings expanded to include 3,500 acres and over 200 enslaved workers. Today, a portion of what was once the plantation is now part of a [State Park](https://www.floridastateparks.org/park/Gamble-Plantation). 
 
-
-
+[Gamble Plantation Map](Gamble_Plantation/Map.HTML)
 
 The Park consists of the antebellum plantation house, a small museum, and a few small related features. Noticeably absent from the property, however, are the quarters where the enslaved Africans working the planation would have lived. 
 
