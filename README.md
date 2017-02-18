@@ -34,12 +34,19 @@ It’s also helpful because it allows us to see features that might not be visib
 
 ### What We’ve Found So Far
 
-We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
-
 ![LiDARDTM](LiDARDTM.jpg)
 
+We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
 
 ### About The Authors
+
+![MattLitteral](MattLitteral.jpg)
+
+![KatePadula](KatePadula.png)
+
+Matt Litteral and Kate Padula are is a first year Master's Candidate in Applied Anthropology at the University of South Florida. 
+Kate Padula is a second year Master's Candidate in Applied Anthropology
+
 
 You can use the [editor on GitHub](https://github.com/KPadula/Gamble_Plantation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
