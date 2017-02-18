@@ -89,4 +89,4 @@ If you answered **yes** to any of these questions, we want to hear from you! Sen
 
 ### Contact Us
 
-If you are interested in learning more about this project, or have any information you think would help in our research, please contact Matt Litteral at mattlitteral@mail.usf.edu.
+If you are interested in learning more about this project, or have any information you think would help in our research, please contact Matt Litteral at smlitteral@mail.usf.edu.
