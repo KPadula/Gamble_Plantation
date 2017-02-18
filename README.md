@@ -1,4 +1,4 @@
-![Main Photo](Gambling With The Past.jpg)
+
 
 ### A Brief History of Gamble Plantation
 
@@ -35,6 +35,8 @@ It’s also helpful because it allows us to see features that might not be visib
 ### What We’ve Found So Far
 
 We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
+
+![Main Photo](Gambling With The Past.jpg)
 
 
 ### About The Authors
