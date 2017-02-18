@@ -1,6 +1,4 @@
-
-
-### A Brief History of Gamble Plantation
+![Main Photo](Gambling With The Past.jpg)
 
 Major Robert Gamble founded Gamble Plantation on 160 acres along the Manatee River in the mid-1840s. By 1850 his holdings expanded to include 3,500 acres and over 200 enslaved workers. Today, a portion of what was once the plantation is now part of a [State Park](https://www.floridastateparks.org/park/Gamble-Plantation). 
 
@@ -24,6 +22,8 @@ Light Detection and Ranging (LiDAR) is a system of remote sensing. A place with 
 
 Based on the time it takes for the light to reflect back to the sensor, we are able to understand what kinds of structures or vegetation are present, and determine the elevation of an area.
 
+![LiDAR Cartoon](LiDARCartoon.png)
+
 
 ### Why is LiDAR important to archaeologists?
 
@@ -36,7 +36,7 @@ It’s also helpful because it allows us to see features that might not be visib
 
 We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
 
-![Main Photo](Gambling With The Past.jpg)
+
 
 
 ### About The Authors
