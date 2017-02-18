@@ -8,6 +8,7 @@ The Park consists of the antebellum plantation house, a small museum, and a few 
 
 These enslaved African domestic sites have yet to be located and uncovered by archaeologists or historians. This is unfortunate, because a lack of archaeological information about the daily lives of the enslaved at Gamble has led to a skewed perception of history that ignores the cultural heritage of African Americans.
 
+
 ### Research Goals
 
 Currently, no know historical documents exist explicitly stating where the living quarters of those enslaved at Gamble Plantation were located. Based on similar plantations in Florida, we believe the quarters would have been in the general vicinity of the plantation house. 
@@ -16,11 +17,13 @@ In archaeological investigations, it is customary to perform a ground survey on 
 
 Therefore, we hypothesize that we will be able to use LiDAR data to identify potential areas of slave domestic sites. Once these areas are identified, archaeological investigation can be conducted to either confirm or deny the presence of slave quarters. 
 
+
 ### What is LiDAR?!
 
 Light Detection and Ranging (LiDAR) is a system of remote sensing. A place with a LiDAR sensor flies over an area and uses a laser to discharge light towards the ground. This light bounces off of things like trees and buildings before it is reflected back to the LiDAR sensor and is recorded. The sensor also communicates with satellites to assign a GPS location for each data set.
 
 Based on the time it takes for the light to reflect back to the sensor, we are able to understand what kinds of structures or vegetation are present, and determine the elevation of an area.
+
 
 ### Why is LiDAR important to archaeologists?
 
@@ -28,9 +31,11 @@ LiDAR is increasingly important in archaeology because it allows archaeologists 
 
 It’s also helpful because it allows us to see features that might not be visible with the naked eye.
 
+
 ### What We’ve Found So Far
 
 We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
+
 
 ### About The Authors
 
