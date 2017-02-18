@@ -40,6 +40,8 @@ It’s also helpful because it allows us to see features that might not be visib
 
 We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
 
+![Aerial Progression](Aerials.png)
+
 ### About The Authors
 
 ![MattLitteral](MattLitteral.jpg)
