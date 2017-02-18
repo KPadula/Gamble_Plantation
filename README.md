@@ -44,7 +44,7 @@ It’s also helpful because it allows us to see features that might not be visib
 
 The small raised features seen in the above photo could possibly be the remains of collapsed slave quarters. To get a better view of elevation on these potential features, we made a profile of the ground points.
 
-{PROFILE VISUAL}
+![Profile](Profile.png)
 
 To make sure there weren’t any classification errors, in which vegetation (like trees) could be confused with ground points, we created a visualization of all points (including trees).
 
