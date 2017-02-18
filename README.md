@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gambling With The Past
 
 You can use the [editor on GitHub](https://github.com/KPadula/Gamble_Plantation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
