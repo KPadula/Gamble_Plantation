@@ -67,8 +67,16 @@ We also wanted to see if there were any modern structures previously in the area
 Since these features are visible as far back as 1951, and since these photos show there have been no structures in this area since 1940, the features must have been created prior to 1940, and are good candidates for being potential slave quarters.  
  
 ### What Finding the Slave Quarters Would Mean
+Using these LiDAR visualizations to confirm an area where the slave quarters might be located can tell us about the settlement patterns of the enslaved. It can also open up the door to archaeological excavation, which in turn can help us understand the daily lives of the enslaved, community organization, etc. 
+
+Additionally, since the museum at Gamble Plantation Historic State Park currently does not include a heavy narrative about the enslaved, slave quarter excavations could supply key information that would lead to  African-American heritage finally being represented at the museum. 
 
 ### Is Your Home a Piece of Gamble History?! 
+Do you live in the area around Gamble Plantation?
+Have you ever found artifacts or old foundations on your property?
+Does your land have a unique history?
+
+If you answered **yes** to any of these questions, we want to hear from you! Send us an email at address listed below - we'd love to learn about your property and potentially schedule a walkthrough of your land. 
 
 
 ### About The Authors
@@ -81,4 +89,4 @@ Since these features are visible as far back as 1951, and since these photos sho
 
 ### Contact Us
 
-You can contact Matt at mattlitteral@mail.usf.edu and Kate at kpadula@mail.usf.edu
+If you are interested in learning more about this project, or have any information you think would help in our research, please contact Matt Litteral at mattlitteral@mail.usf.edu.
