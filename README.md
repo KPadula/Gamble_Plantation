@@ -40,31 +40,31 @@ It’s also helpful because it allows us to see features that might not be visib
 
 ### What We’ve Found So Far
 
-![POINT CLOUD](https://drive.google.com/drive/folders/0B5CxSWQVWsVObElyUmVWblZHOGc?usp=sharing)
+![LiDARDTM](LiDARDTM.jpg)
 
-The small raised features seen in the above photo could possibly be the remains of collapsed slave quarters. To get a better view of elevation on these potential features, we made a profile of the ground points.
+This basic LiDAR image highlights an area of interest to the northeast of the Gamble plantation house. In what seems to be an undeveloped field, we've identified several circular features measuring about 40ft across and 1 to 2 feet high. These are the right shape and size to potentially be remnants of slave quarters. You can use the 3D point cloud below to take a closer look at the area.
+
+![POINT CLOUD](https://dl.dropboxusercontent.com/u/106681985/PublicMap/portal.html)
+
+To get a better view of the elevation on these potential features, we also made a profile of the area, which allows us to see it as if we were standing on the ground.
 
 ![Profile](Profile.png)
 
-To make sure there weren’t any classification errors, in which vegetation (like trees) could be confused with ground points, we created a visualization of all points (including trees).
+Next, to make sure there weren’t any classification errors in our LiDAR visual, in which vegetation (like trees) could be confused with ground points, we created a visualization of all points (including trees).
 
 ![All Points](ALL POINTS.JPG)
 
-To confirm that these are archaeological features, and not naturally occurring (i.e. trees), or modern structures, we need to use additional visualizations.
+In this image, the red areas indicate vegetation (i.e. trees, bushes, etc.) Since there is no red in the area of interest, we can rule out that the features we are seeing are trees. 
 
 ![Hillshade](Hillshade.png)
 
-This visualization is a hillshade of the bare earth points in our area of interest. What this means is 
+To get an even better visualization on these features, we created an image called a hillshade. This type of visualization shows an area as if the sun was shining from different angles overhead, which adds shadow and allows us to see areas of interest in more detail. 
 
-This type of visualization shows an area as if the sun was shining from  XXXXXXXXXXXXXXXXXX
+Finally, we wanted to see if there were any structures previously in the area that could have left behind or made these features. To do this, we looked at historic aerial photos of the area for the past 75 years. We were also able to identify the features in almost all of the historic aerial photos.
 
-![LiDARDTM](LiDARDTM.jpg)
+![Aerial Progression, Courtesy of the Florida Department of Transportation](Aerials.png)
 
-We also wanted to see if there were any modern structures previously in the area that could have left behind or made these features. To do this, we looked at historic aerial photos of the area (mention FDOT) for the past 75 years. We were also able to identify the features in almost all of the historic aerial photos.
-
-![Aerial Progression](Aerials.png)
-
-Since these features are visible as far back as 1951, and since these photos show there have been no structures in this area since 1940, the features must have been created prior to 1940, and are good candidates for being potential slave quarters.  
+Since the features we are interested in are visible as far back as 1951, and the photos show there have been no structures in this area since 1940, the features must have been created prior to 1940, and are good candidates for being potential slave quarters.  
  
 ### What Finding the Slave Quarters Would Mean
 Using these LiDAR visualizations to confirm an area where the slave quarters might be located can tell us about the settlement patterns of the enslaved. It can also open up the door to archaeological excavation, which in turn can help us understand the daily lives of the enslaved, community organization, etc. 
@@ -77,7 +77,6 @@ Have you ever found artifacts or old foundations on your property?
 Does your land have a unique history?
 
 If you answered **yes** to any of these questions, we want to hear from you! Send us an email at address listed below - we'd love to learn about your property and potentially schedule a walkthrough of your land. 
-
 
 ### About The Authors
 
