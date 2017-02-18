@@ -38,6 +38,9 @@ It’s also helpful because it allows us to see features that might not be visib
 
 ### What We’ve Found So Far
 
+
+![Hillshade](Hillshade.png)
+
 ![LiDARDTM](LiDARDTM.jpg)
 
 We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
