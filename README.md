@@ -1,6 +1,6 @@
-<div style="text-align:center"><img src ="Gambling With The Past.jpg" /></div>!
+<div style="text-align:center"><img src ="Gambling With The Past.jpg"/></div>
 
-[Main Photo](Gambling With The Past.jpg)
+![Main Photo](Gambling With The Past.jpg)
 
 Major Robert Gamble founded Gamble Plantation on 160 acres along the Manatee River in the mid-1840s. By 1850 his holdings expanded to include 3,500 acres and over 200 enslaved workers. Today, a portion of what was once the plantation is now part of a [State Park](https://www.floridastateparks.org/park/Gamble-Plantation). 
 
@@ -42,14 +42,34 @@ It’s also helpful because it allows us to see features that might not be visib
 
 ![POINT CLOUD](https://drive.google.com/drive/folders/0B5CxSWQVWsVObElyUmVWblZHOGc?usp=sharing)
 
+The small raised features seen in the above photo could possibly be the remains of collapsed slave quarters. To get a better view of elevation on these potential features, we made a profile of the ground points.
+
+{PROFILE VISUAL}
+
+To make sure there weren’t any classification errors, in which vegetation (like trees) could be confused with ground points, we created a visualization of all points (including trees).
+
+{ALL POINTS}
+
+To confirm that these are archaeological features, and not naturally occurring (i.e. trees), or modern structures, we need to use additional visualizations.
 
 ![Hillshade](Hillshade.png)
 
+This visualization is a hillshade of the bare earth points in our area of interest. What this means is 
+
+This type of visualization shows an area as if the sun was shining from  XXXXXXXXXXXXXXXXXX
+
 ![LiDARDTM](LiDARDTM.jpg)
 
-We also looked at aerial photographs over the past several decades to look at the progression of land use in the area.
+We also wanted to see if there were any modern structures previously in the area that could have left behind or made these features. To do this, we looked at historic aerial photos of the area (mention FDOT) for the past 75 years. We were also able to identify the features in almost all of the historic aerial photos.
 
 ![Aerial Progression](Aerials.png)
+
+Since these features are visible as far back as 1951, and since these photos show there have been no structures in this area since 1940, the features must have been created prior to 1940, and are good candidates for being potential slave quarters.  
+ 
+### What Finding the Slave Quarters Would Mean
+
+### Is Your Home a Piece of Gamble History?! 
+
 
 ### About The Authors
 
@@ -57,46 +77,8 @@ We also looked at aerial photographs over the past several decades to look at th
 
 ![KatePadula](KatePadula.png)
 
-Matt Litteral and Kate Padula are Master's Candidates in Applied Anthropology at the University of South Florida. They are both in the archaeology track, studying sugar plantations in Florida.
+**Matt Litteral** and **Kate Padula** are Master's Candidates in Applied Anthropology at the University of South Florida. They are both in the archaeology track, studying sugar plantations in Florida.
 
 ### Contact Us
 
 You can contact Matt at mattlitteral@mail.usf.edu and Kate at kpadula@mail.usf.edu
-
-
-
-You can use the [editor on GitHub](https://github.com/KPadula/Gamble_Plantation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KPadula/Gamble_Plantation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
