@@ -1,4 +1,4 @@
-!(https://github.com/KPadula/Gamble_Plantation/Gambling_With_The_Past.jpg)
+![Main Photo](Gambling_With_The_Past.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/KPadula/Gamble_Plantation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
