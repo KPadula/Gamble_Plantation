@@ -38,6 +38,8 @@ It’s also helpful because it allows us to see features that might not be visib
 
 ### What We’ve Found So Far
 
+![POINT CLOUD](https://drive.google.com/drive/folders/0B5CxSWQVWsVObElyUmVWblZHOGc?usp=sharing)
+
 
 ![Hillshade](Hillshade.png)
 
@@ -53,9 +55,11 @@ We also looked at aerial photographs over the past several decades to look at th
 
 ![KatePadula](KatePadula.png)
 
-Matt Litteral and Kate Padula are Master's Candidates in Applied Anthropology at the University of South Florida. They are both archaeologists studying sugar plantations in Florida.
+Matt Litteral and Kate Padula are Master's Candidates in Applied Anthropology at the University of South Florida. They are both in the archaeology track, studying sugar plantations in Florida.
 
 ### Contact Us
+
+You can contact Matt at mattlitteral@mail.usf.edu and Kate at kpadula@mail.usf.edu
 
 
 
